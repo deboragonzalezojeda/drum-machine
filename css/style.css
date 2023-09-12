@@ -3,7 +3,7 @@
 body {
     width: 100vw;
     height: 100vh;
-    background-image: url(/Github/drum-machine/img/drum-bg.jpg);
+    background-image: url(../img/drum-bg.jpg);
     background-size: cover;
     align-items: center;
 }
